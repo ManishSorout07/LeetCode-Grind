@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
