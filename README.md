@@ -60,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
