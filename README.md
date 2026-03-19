@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0035-search-insert-position) |
+| [0057-insert-interval](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
