@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [1306-jump-game-iii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1345-jump-game-iv) |
 | [1539-kth-missing-positive-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
+| [1345-jump-game-iv](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2784-check-if-array-is-good) |
@@ -116,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
