@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3660-jump-game-ix) |
 ## Binary Search
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
