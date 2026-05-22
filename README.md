@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0057-insert-interval) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
