@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
