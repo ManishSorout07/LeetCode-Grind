@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [1306-jump-game-iii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1345-jump-game-iv) |
 | [1539-kth-missing-positive-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
+| [1340-jump-game-v](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1340-jump-game-v) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2784-check-if-array-is-good](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0198-house-robber) |
 | [1143-longest-common-subsequence](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1143-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1340-jump-game-v) |
 | [3660-jump-game-ix](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
