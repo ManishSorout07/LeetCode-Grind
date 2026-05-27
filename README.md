@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2784-check-if-array-is-good) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
