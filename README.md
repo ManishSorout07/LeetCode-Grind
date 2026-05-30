@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1345-jump-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
