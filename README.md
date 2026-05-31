@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2126-destroying-asteroids](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
 | [1340-jump-game-v](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1340-jump-game-v) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2126-destroying-asteroids](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2126-destroying-asteroids](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2126-destroying-asteroids) |
 ## Game Theory
 |  |
 | ------- |
