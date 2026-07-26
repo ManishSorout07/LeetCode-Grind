@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0041-first-missing-positive) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
