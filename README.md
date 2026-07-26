@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
