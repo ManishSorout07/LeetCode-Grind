@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0198-house-robber) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0645-set-mismatch) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
