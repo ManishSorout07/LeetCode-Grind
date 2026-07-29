@@ -1,6 +1,7 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int i=0;
+        //cycle sort 
+        int i=0;      
         while(i<nums.length){
             int correct = nums[i];
 
