@@ -1,5 +1,6 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
+        //cycle sort 
         int i =0;
         while(i<nums.length){
             int correct = nums[i]-1;
