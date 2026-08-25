@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/2540-minimum-common-value) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/3121-count-the-number-of-special-characters-ii) |
