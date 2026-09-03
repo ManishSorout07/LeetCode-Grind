@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/1143-longest-common-subsequence) |
