@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0242-valid-anagram) |
