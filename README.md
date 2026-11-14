@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ManishSorout07/LeetCode-Grind/tree/master/0169-majority-element) |
 ## Counting
